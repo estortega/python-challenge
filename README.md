@@ -1,7 +1,7 @@
 # PyBank: Financial Analysis
 
 # Project Description
-In the PyBank challenge, we analyze a company’s financial records to calculate key metrics, including total months, net profit/loss, average changes, and the greatest increases and decreases in profits.
+In the PyBank challenge, I analyze a company’s financial records to calculate key metrics, including total months, net profit/loss, average changes, and the greatest increases and decreases in profits.
 
 # Key Calculations
 Total Months: Counts the number of unique months in the dataset.
